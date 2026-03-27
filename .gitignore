@@ -1,0 +1,19 @@
+# Ignore editor files
+.vscode/
+**/.vscode/
+
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+*.log
+
+# Build files
+dist/
+build/
+
+# Uploads
+uploads/
